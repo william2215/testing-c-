@@ -9,7 +9,7 @@ using namespace std;
 #include <time.h>
 #include <fstream>
 
-
+//test
 
 int main(int argc, char *argv[]){
 	string texto = "te amo michi hermosa";
